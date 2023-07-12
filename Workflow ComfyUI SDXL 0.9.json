@@ -163,7 +163,7 @@
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
-        "beautiful scenery nature glass bottle landscape, , purple galaxy bottle,"
+        "Old man photo, wearing black suit, hazel eyes, Photography"
       ]
     },
     {
@@ -359,7 +359,7 @@
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
-        "beautiful scenery nature glass bottle landscape, , purple galaxy bottle,"
+        "Old man photo, wearing black suit, hazel eyes, Photography"
       ]
     },
     {
@@ -399,7 +399,7 @@
       "title": "Positive Prompt",
       "properties": {},
       "widgets_values": [
-        "beautiful scenery nature glass bottle landscape, , purple galaxy bottle,"
+        "Old man photo, wearing black suit, hazel eyes, Photography"
       ],
       "color": "#232",
       "bgcolor": "#353",
